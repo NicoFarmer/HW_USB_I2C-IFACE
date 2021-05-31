@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name USB)(type KiCad)(uri /home/crlg/workspace_electronic/HW_USB_I2C-IFACE/ext/KICAD_LIB/footprints/USB.pretty)(options "")(descr ""))
+)

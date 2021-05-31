@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name CRLG-Connectors)(type Legacy)(uri /home/crlg/workspace_electronic/HW_USB_I2C-IFACE/ext/KICAD_LIB/symbols/CRLG-Connectors.lib)(options "")(descr ""))
+  (lib (name CRLG-Passive)(type Legacy)(uri /home/crlg/workspace_electronic/HW_USB_I2C-IFACE/ext/KICAD_LIB/symbols/CRLG-Passive.lib)(options "")(descr ""))
+  (lib (name CRLG-USB-Interfaces)(type Legacy)(uri /home/crlg/workspace_electronic/HW_USB_I2C-IFACE/ext/KICAD_LIB/symbols/CRLG-USB-Interfaces.lib)(options "")(descr ""))
+)
